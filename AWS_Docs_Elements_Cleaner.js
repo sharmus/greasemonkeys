@@ -15,5 +15,6 @@
 
     $("#footer").remove();
     $("#cookie-notice").remove();
+    $("#awsdocs-cookie-banner").remove();
 
 })();
