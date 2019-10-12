@@ -16,5 +16,7 @@
     $("#footer").remove();
     $("#cookie-notice").remove();
     $("#awsdocs-cookie-banner").remove();
+    $('#awsdocs-header > div.ng-scope > awsui-flash > div').remove();
+    $('body > div > awsdocs-cookie-banner').remove();
 
 })();
